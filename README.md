@@ -1,1 +1,1 @@
-# Avanade Product Analytics
+# Avanade Product Analytics 🧡🤖
