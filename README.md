@@ -1,1 +1,1 @@
-# avanade-irvine-prodcut-analytics
+# Avanade Product Analytics
